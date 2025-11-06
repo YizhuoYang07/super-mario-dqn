@@ -1,0 +1,63 @@
+{
+  "model_path": "/Users/rickiyang/Documents/UTS/43008-Reinforcement Learning/AT3/gymnasium-mario/results/dqn_autodl/exp17/models/mario_DQN_autodl_rtx5090_5000000_steps.zip",
+  "n_episodes": 5,
+  "total_stages_completed": 5,
+  "mean_stages_per_episode": 1.0,
+  "mean_reward": 10447.8470703125,
+  "mean_length": 2348.0,
+  "episode_data": [
+    {
+      "episode": 1,
+      "reward": 10423.6884765625,
+      "length": 2348,
+      "stages_completed": 1,
+      "stages_list": [
+        "1-1"
+      ],
+      "final_stage": "1-2"
+    },
+    {
+      "episode": 2,
+      "reward": 10453.88671875,
+      "length": 2348,
+      "stages_completed": 1,
+      "stages_list": [
+        "1-1"
+      ],
+      "final_stage": "1-2"
+    },
+    {
+      "episode": 3,
+      "reward": 10453.88671875,
+      "length": 2348,
+      "stages_completed": 1,
+      "stages_list": [
+        "1-1"
+      ],
+      "final_stage": "1-2"
+    },
+    {
+      "episode": 4,
+      "reward": 10453.88671875,
+      "length": 2348,
+      "stages_completed": 1,
+      "stages_list": [
+        "1-1"
+      ],
+      "final_stage": "1-2"
+    },
+    {
+      "episode": 5,
+      "reward": 10453.88671875,
+      "length": 2348,
+      "stages_completed": 1,
+      "stages_list": [
+        "1-1"
+      ],
+      "final_stage": "1-2"
+    }
+  ],
+  "stage_completion_counts": {
+    "1-1": 5
+  }
+}

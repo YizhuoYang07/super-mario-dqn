@@ -1,0 +1,10 @@
+{
+  "total_steps": 5000000,
+  "q_value_growth_pct": 68.20162353518032,
+  "early_mean_q": 1.0244057659999999,
+  "late_mean_q": 1.72306713,
+  "peak_q_value": 4.350156,
+  "early_volatility": 0.06660401428571426,
+  "late_volatility": 0.09271443599999998,
+  "stability_improvement_pct": -39.20247449692546
+}

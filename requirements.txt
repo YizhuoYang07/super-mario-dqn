@@ -1,0 +1,22 @@
+torch>=2.0.0
+stable-baselines3>=2.1.0
+gymnasium>=0.29.0
+numpy>=1.21.0
+opencv-python>=4.5.0
+matplotlib>=3.5.0
+tensorboard>=2.10.0
+pandas>=1.3.0
+tqdm>=4.62.0
+
+# Mario environment dependencies
+ale-py>=0.8.0
+gym-super-mario-bros>=7.4.0
+
+# Video recording
+moviepy>=1.0.3
+
+# Development dependencies (optional)
+pytest>=7.0.0
+black>=22.0.0
+flake8>=5.0.0
+mypy>=0.991

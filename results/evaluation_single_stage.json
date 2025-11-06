@@ -1,0 +1,47 @@
+{
+  "model_path": "/Users/rickiyang/Documents/UTS/43008-Reinforcement Learning/AT3/gymnasium-mario/results/dqn_autodl/exp17/models/mario_DQN_autodl_rtx5090_5000000_steps.zip",
+  "n_episodes": 10,
+  "mean_reward": 3296.111328125,
+  "std_reward": 936.3031616210938,
+  "min_reward": 2984.010498046875,
+  "max_reward": 6105.02099609375,
+  "mean_length": 345.0,
+  "completion_rate": 100.0,
+  "completions": 10,
+  "episode_rewards": [
+    6105.02099609375,
+    2984.010498046875,
+    2984.010498046875,
+    2984.010498046875,
+    2984.010498046875,
+    2984.010498046875,
+    2984.010498046875,
+    2984.010498046875,
+    2984.010498046875,
+    2984.010498046875
+  ],
+  "episode_lengths": [
+    345,
+    345,
+    345,
+    345,
+    345,
+    345,
+    345,
+    345,
+    345,
+    345
+  ],
+  "episode_completions": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ]
+}

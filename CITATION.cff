@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: "Yang"
+    given-names: "Ricki"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "University of Technology Sydney"
+title: "Deep Q-Network Implementation for Super Mario Bros: A Study of Specialization-Generalization Trade-offs"
+version: 1.0.0
+doi: 10.5281/zenodo.XXXXXXX
+date-released: 2024-11-06
+url: "https://github.com/YizhuoYang07/super-mario-dqn"
+repository-code: "https://github.com/YizhuoYang07/super-mario-dqn"
+abstract: >-
+  A comprehensive Deep Q-Network (DQN) implementation for training
+  reinforcement learning agents to play Super Mario Bros. This project
+  demonstrates the specialization-generalization trade-off in deep RL
+  through systematic evaluation of single-level versus multi-level
+  training paradigms.
+keywords:
+  - reinforcement-learning
+  - deep-q-network
+  - super-mario-bros
+  - specialization-generalization
+  - computer-vision
+  - game-ai
+license: MIT
+preferred-citation:
+  type: thesis
+  authors:
+    - family-names: "Yang"
+      given-names: "Ricki"
+      orcid: "https://orcid.org/0000-0000-0000-0000"
+      affiliation: "University of Technology Sydney"
+  title: "Deep Q-Network Implementation for Super Mario Bros: A Study of Specialization-Generalization Trade-offs"
+  year: 2024
+  institution:
+    name: "University of Technology Sydney"
+  department: "Faculty of Engineering and Information Technology"
+  thesis-type: "Assignment Report"
+  course: "43008 Reinforcement Learning"
