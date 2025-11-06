@@ -1,16 +1,22 @@
-# Deep Q-Network (DQN) Implementation for Super Mario Bros# DQN Training for Super Mario Bros - Final Submission
+# Deep Q-Network (DQN) Implementation for Super Mario Bros# DQN Training for Super Mario Bros
 
 ## 43008 Reinforcement Learning - Assignment 3, Part E
 
 **Student**: Ricki Yang (Student ID: 25657673)  
 
-**Author:** Ricki Yang (Student ID: 25657673)  **Course**: 43008 - Reinforcement Learning  
+**Author:** Ricki Yang (Student ID: 25657673)
 
-**Email:** Yizhuo.yang@student.uts.edu.au  **Platform**: MacBook Pro M4 Pro (24GB RAM, MPS acceleration)  
+**Course**: 43008 - Reinforcement Learning  
 
-**Institution:** University of Technology Sydney  **Training Date**: October 27, 2024  
+**Email:** Yizhuo.yang@student.uts.edu.au  
 
-**Date:** November 2024**Total Training Time**: ~6-7 hours
+**Platform**: MacBook Pro M4 Pro (24GB RAM, MPS acceleration)  
+
+**Institution:** University of Technology Sydney  
+
+**Training Date**: October, 2024  
+
+**Date:** November 2024
 
 
 
