@@ -89,14 +89,6 @@ python evaluate_final_model.py --model ../models/mario_DQN_autodl_rtx5090_500000
 python evaluate_multi_stage.py --model ../models/mario_DQN_autodl_rtx5090_5000000_steps.zip
 ```
 
-## Academic Standards
-
-This codebase follows academic software development best practices:
-- Clear separation of concerns
-- Modular architecture enabling easy experimentation
-- Comprehensive documentation for reproducibility
-- Standardized evaluation protocols for fair comparison
-
 ## Dependencies
 
 See `../requirements.txt` for complete dependency list. Key requirements:
